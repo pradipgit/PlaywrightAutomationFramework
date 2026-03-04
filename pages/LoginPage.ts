@@ -7,7 +7,7 @@ export class LoginPage extends BasePage {
     }
 
     searchBox = this.page.getByRole('combobox', { name: 'Search' });
-    searchButton = this.page.getByRole('button', { name: 'Search' });
+    searchButton = this.page.getByRole('button', { name: 'Google Search' });
 
     async searchInGoogle(searchQuery:string) {
         await this.searchBox.fill(searchQuery);
