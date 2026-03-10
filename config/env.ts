@@ -9,7 +9,7 @@ export const environments = {
     password: 'qa_pass'
   },
   staging: {
-    baseURL: 'https://www.google.com',
+    baseURL: 'https://naveenautomationlabs.com/',
     username: 'stg_user',
     password: 'stg_pass'
   },

@@ -1,0 +1,185 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - insertion [ref=e2]:
+    - iframe [ref=e4]:
+      - generic [active] [ref=f2e1]:
+        - generic [ref=f2e5]:
+          - generic [ref=f2e6]:
+            - link [ref=f2e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CQSLo36qvaebCGMCBid4PtvuPqQSQ3uyehQHw5ODa-hPZ2R4QASD3ga05YOXq5oO8DqAB24vd3APIAQmpAoFpF8E_Qkc-qAMByAPLBKoE_QFP0GJAqGTdOF9T1DwY84mYEz5S7iQlMvmo09NPJ5S2eCXCdWDTSfRJyT85RkId-HFPAFx_Di8nhBafEqKQmwEVUpGIEEzYV9bGXW_wPBTMWYru2HIEIpGlQ789u53lK8zIZQd9tmoTfQR2ZERKfNRTnLlrBywylJ72HFKzkjplJIhJnElsME1r7ty8lgqobSa3GyiUAUMIfKw-J0bcyhDKAQsXBQefQnH-f-Ux3ip00HB9rYABS-Bkz58vIUvUsm-qLRJr5OzOMXCuDApyGnll6NYe5FRKuNWZOSxZ8h9PwDkp3DGnTWbNp18qdvGuMq2duP0TJZxhB2zYJax-wATVkc70rASIBc2so16gBi6AB430oiOoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliK7rvIy5STA7EJwpou78P0j9SACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAklOyA0B6g0TCI6yvcjLlJMDFcBAwgUdtv0jRfANAogOCbgT5APYEwyIFAXQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAQLBqVUESCjczMTg1MTUxMDUYAbIYCRICuFAYLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE&num=1&cid=CAQS5AEA56J1eSE28tOZUOCZ2Z0hMVvmvbZpYSrrg1qUysCYF5NPOjXKA0nrpWcDOGhJRV5uqLMbF9el4by-wvxdMOU_ZkF_6jJqxVsj0Kw7hNaqW-tTgEs9NqQ0MFwr-U8aDQBdiddjsenxtDs7LcxqLPe2c-XQKNrDaZ1JjUKFU-AJTq8IL5AoBi0_FSmfNulIdL0J-xyc1JtmIZxyAis-Zz1K3iYCk4yFBFsNdm3Y9zFeMapvRgy_K6UO46tPN0aatxUl2CCQn7Y3nTTlBuM5CE1nIZdhE1pgxuomAp5qzM3aUxGNBBcYAQ&sig=AOD64_2_WbZ2nDoaFz28RnnmYembx_XkLw&client=ca-pub-1372512343078234&rf=1&nb=9&adurl=https://reimaginehr.hrone.cloud/hr-software-remarketing-lp%3Futm_term%3D%26utm_campaign%3DRemarketing%2B-%2BIndia%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7736326814%26hsa_cam%3D197711437%26hsa_grp%3D149494663381%26hsa_ad%3D733731997142%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D197711437%26gclid%3DEAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE
+              - img [ref=f2e8]
+            - link "Best HR Software in India" [ref=f2e11] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CQSLo36qvaebCGMCBid4PtvuPqQSQ3uyehQHw5ODa-hPZ2R4QASD3ga05YOXq5oO8DqAB24vd3APIAQmpAoFpF8E_Qkc-qAMByAPLBKoE_QFP0GJAqGTdOF9T1DwY84mYEz5S7iQlMvmo09NPJ5S2eCXCdWDTSfRJyT85RkId-HFPAFx_Di8nhBafEqKQmwEVUpGIEEzYV9bGXW_wPBTMWYru2HIEIpGlQ789u53lK8zIZQd9tmoTfQR2ZERKfNRTnLlrBywylJ72HFKzkjplJIhJnElsME1r7ty8lgqobSa3GyiUAUMIfKw-J0bcyhDKAQsXBQefQnH-f-Ux3ip00HB9rYABS-Bkz58vIUvUsm-qLRJr5OzOMXCuDApyGnll6NYe5FRKuNWZOSxZ8h9PwDkp3DGnTWbNp18qdvGuMq2duP0TJZxhB2zYJax-wATVkc70rASIBc2so16gBi6AB430oiOoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliK7rvIy5STA7EJwpou78P0j9SACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAklOyA0B6g0TCI6yvcjLlJMDFcBAwgUdtv0jRfANAogOCbgT5APYEwyIFAXQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAQLBqVUESCjczMTg1MTUxMDUYAbIYCRICuFAYLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE&num=1&cid=CAQS5AEA56J1eSE28tOZUOCZ2Z0hMVvmvbZpYSrrg1qUysCYF5NPOjXKA0nrpWcDOGhJRV5uqLMbF9el4by-wvxdMOU_ZkF_6jJqxVsj0Kw7hNaqW-tTgEs9NqQ0MFwr-U8aDQBdiddjsenxtDs7LcxqLPe2c-XQKNrDaZ1JjUKFU-AJTq8IL5AoBi0_FSmfNulIdL0J-xyc1JtmIZxyAis-Zz1K3iYCk4yFBFsNdm3Y9zFeMapvRgy_K6UO46tPN0aatxUl2CCQn7Y3nTTlBuM5CE1nIZdhE1pgxuomAp5qzM3aUxGNBBcYAQ&sig=AOD64_2_WbZ2nDoaFz28RnnmYembx_XkLw&client=ca-pub-1372512343078234&rf=1&nb=0&adurl=https://reimaginehr.hrone.cloud/hr-software-remarketing-lp%3Futm_term%3D%26utm_campaign%3DRemarketing%2B-%2BIndia%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7736326814%26hsa_cam%3D197711437%26hsa_grp%3D149494663381%26hsa_ad%3D733731997142%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D197711437%26gclid%3DEAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE
+          - generic [ref=f2e12]:
+            - link [ref=f2e13] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CQSLo36qvaebCGMCBid4PtvuPqQSQ3uyehQHw5ODa-hPZ2R4QASD3ga05YOXq5oO8DqAB24vd3APIAQmpAoFpF8E_Qkc-qAMByAPLBKoE_QFP0GJAqGTdOF9T1DwY84mYEz5S7iQlMvmo09NPJ5S2eCXCdWDTSfRJyT85RkId-HFPAFx_Di8nhBafEqKQmwEVUpGIEEzYV9bGXW_wPBTMWYru2HIEIpGlQ789u53lK8zIZQd9tmoTfQR2ZERKfNRTnLlrBywylJ72HFKzkjplJIhJnElsME1r7ty8lgqobSa3GyiUAUMIfKw-J0bcyhDKAQsXBQefQnH-f-Ux3ip00HB9rYABS-Bkz58vIUvUsm-qLRJr5OzOMXCuDApyGnll6NYe5FRKuNWZOSxZ8h9PwDkp3DGnTWbNp18qdvGuMq2duP0TJZxhB2zYJax-wATVkc70rASIBc2so16gBi6AB430oiOoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliK7rvIy5STA7EJwpou78P0j9SACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAklOyA0B6g0TCI6yvcjLlJMDFcBAwgUdtv0jRfANAogOCbgT5APYEwyIFAXQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAQLBqVUESCjczMTg1MTUxMDUYAbIYCRICuFAYLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE&num=1&cid=CAQS5AEA56J1eSE28tOZUOCZ2Z0hMVvmvbZpYSrrg1qUysCYF5NPOjXKA0nrpWcDOGhJRV5uqLMbF9el4by-wvxdMOU_ZkF_6jJqxVsj0Kw7hNaqW-tTgEs9NqQ0MFwr-U8aDQBdiddjsenxtDs7LcxqLPe2c-XQKNrDaZ1JjUKFU-AJTq8IL5AoBi0_FSmfNulIdL0J-xyc1JtmIZxyAis-Zz1K3iYCk4yFBFsNdm3Y9zFeMapvRgy_K6UO46tPN0aatxUl2CCQn7Y3nTTlBuM5CE1nIZdhE1pgxuomAp5qzM3aUxGNBBcYAQ&sig=AOD64_2_WbZ2nDoaFz28RnnmYembx_XkLw&client=ca-pub-1372512343078234&rf=1&nb=19&adurl=https://reimaginehr.hrone.cloud/hr-software-remarketing-lp%3Futm_term%3D%26utm_campaign%3DRemarketing%2B-%2BIndia%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7736326814%26hsa_cam%3D197711437%26hsa_grp%3D149494663381%26hsa_ad%3D733731997142%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D197711437%26gclid%3DEAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE
+              - img [ref=f2e14]
+            - link "HROne" [ref=f2e16] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CQSLo36qvaebCGMCBid4PtvuPqQSQ3uyehQHw5ODa-hPZ2R4QASD3ga05YOXq5oO8DqAB24vd3APIAQmpAoFpF8E_Qkc-qAMByAPLBKoE_QFP0GJAqGTdOF9T1DwY84mYEz5S7iQlMvmo09NPJ5S2eCXCdWDTSfRJyT85RkId-HFPAFx_Di8nhBafEqKQmwEVUpGIEEzYV9bGXW_wPBTMWYru2HIEIpGlQ789u53lK8zIZQd9tmoTfQR2ZERKfNRTnLlrBywylJ72HFKzkjplJIhJnElsME1r7ty8lgqobSa3GyiUAUMIfKw-J0bcyhDKAQsXBQefQnH-f-Ux3ip00HB9rYABS-Bkz58vIUvUsm-qLRJr5OzOMXCuDApyGnll6NYe5FRKuNWZOSxZ8h9PwDkp3DGnTWbNp18qdvGuMq2duP0TJZxhB2zYJax-wATVkc70rASIBc2so16gBi6AB430oiOoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliK7rvIy5STA7EJwpou78P0j9SACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAklOyA0B6g0TCI6yvcjLlJMDFcBAwgUdtv0jRfANAogOCbgT5APYEwyIFAXQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAQLBqVUESCjczMTg1MTUxMDUYAbIYCRICuFAYLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE&num=1&cid=CAQS5AEA56J1eSE28tOZUOCZ2Z0hMVvmvbZpYSrrg1qUysCYF5NPOjXKA0nrpWcDOGhJRV5uqLMbF9el4by-wvxdMOU_ZkF_6jJqxVsj0Kw7hNaqW-tTgEs9NqQ0MFwr-U8aDQBdiddjsenxtDs7LcxqLPe2c-XQKNrDaZ1JjUKFU-AJTq8IL5AoBi0_FSmfNulIdL0J-xyc1JtmIZxyAis-Zz1K3iYCk4yFBFsNdm3Y9zFeMapvRgy_K6UO46tPN0aatxUl2CCQn7Y3nTTlBuM5CE1nIZdhE1pgxuomAp5qzM3aUxGNBBcYAQ&sig=AOD64_2_WbZ2nDoaFz28RnnmYembx_XkLw&client=ca-pub-1372512343078234&rf=1&nb=1&adurl=https://reimaginehr.hrone.cloud/hr-software-remarketing-lp%3Futm_term%3D%26utm_campaign%3DRemarketing%2B-%2BIndia%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7736326814%26hsa_cam%3D197711437%26hsa_grp%3D149494663381%26hsa_ad%3D733731997142%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D197711437%26gclid%3DEAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE
+            - link "Visit Site" [ref=f2e17] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CQSLo36qvaebCGMCBid4PtvuPqQSQ3uyehQHw5ODa-hPZ2R4QASD3ga05YOXq5oO8DqAB24vd3APIAQmpAoFpF8E_Qkc-qAMByAPLBKoE_QFP0GJAqGTdOF9T1DwY84mYEz5S7iQlMvmo09NPJ5S2eCXCdWDTSfRJyT85RkId-HFPAFx_Di8nhBafEqKQmwEVUpGIEEzYV9bGXW_wPBTMWYru2HIEIpGlQ789u53lK8zIZQd9tmoTfQR2ZERKfNRTnLlrBywylJ72HFKzkjplJIhJnElsME1r7ty8lgqobSa3GyiUAUMIfKw-J0bcyhDKAQsXBQefQnH-f-Ux3ip00HB9rYABS-Bkz58vIUvUsm-qLRJr5OzOMXCuDApyGnll6NYe5FRKuNWZOSxZ8h9PwDkp3DGnTWbNp18qdvGuMq2duP0TJZxhB2zYJax-wATVkc70rASIBc2so16gBi6AB430oiOoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliK7rvIy5STA7EJwpou78P0j9SACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAklOyA0B6g0TCI6yvcjLlJMDFcBAwgUdtv0jRfANAogOCbgT5APYEwyIFAXQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAQLBqVUESCjczMTg1MTUxMDUYAbIYCRICuFAYLiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE&num=1&cid=CAQS5AEA56J1eSE28tOZUOCZ2Z0hMVvmvbZpYSrrg1qUysCYF5NPOjXKA0nrpWcDOGhJRV5uqLMbF9el4by-wvxdMOU_ZkF_6jJqxVsj0Kw7hNaqW-tTgEs9NqQ0MFwr-U8aDQBdiddjsenxtDs7LcxqLPe2c-XQKNrDaZ1JjUKFU-AJTq8IL5AoBi0_FSmfNulIdL0J-xyc1JtmIZxyAis-Zz1K3iYCk4yFBFsNdm3Y9zFeMapvRgy_K6UO46tPN0aatxUl2CCQn7Y3nTTlBuM5CE1nIZdhE1pgxuomAp5qzM3aUxGNBBcYAQ&sig=AOD64_2_WbZ2nDoaFz28RnnmYembx_XkLw&client=ca-pub-1372512343078234&rf=1&nb=8&adurl=https://reimaginehr.hrone.cloud/hr-software-remarketing-lp%3Futm_term%3D%26utm_campaign%3DRemarketing%2B-%2BIndia%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7736326814%26hsa_cam%3D197711437%26hsa_grp%3D149494663381%26hsa_ad%3D733731997142%26hsa_src%3Dd%26hsa_tgt%3D%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D5%26gad_campaignid%3D197711437%26gclid%3DEAIaIQobChMIpq69yMuUkwMVwEDCBR22_SNFEAEYASAAEgLGpvD_BwE
+              - generic [ref=f2e19]: Visit Site
+        - img [ref=f2e23] [cursor=pointer]
+        - button [ref=f2e25] [cursor=pointer]:
+          - img [ref=f2e26]
+        - iframe
+  - link "Skip to the content" [ref=e5] [cursor=pointer]:
+    - /url: "#site-content"
+  - generic [ref=e6]:
+    - list [ref=e11]:
+      - listitem [ref=e12]:
+        - link "Live Training" [ref=e13] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/live-training/
+      - listitem [ref=e14]:
+        - text: /
+        - link "Paid Videos/Courses" [ref=e15] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/paid-videos-courses/
+      - listitem [ref=e16]:
+        - text: /
+        - link "Generate Page Objects Using AI" [ref=e17] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/03b506e0-cea0-43ee-94e9-bb10dd9106b2?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=page_object_generator&utm_content=launch_button
+      - listitem [ref=e18]:
+        - text: /
+        - link "Test Automation Code Translator" [ref=e19] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/a5a94f5d-df6a-46b8-bf3d-55606cefb8d7?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=code_converter&utm_content=launch_button
+      - listitem [ref=e20]:
+        - text: /
+        - link "cURL to REST Assured Converter" [ref=e21] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/6b0a20b6-ef02-4e63-a0cd-064c01e3a716?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=curl_converter&utm_content=launch_button
+      - listitem [ref=e22]:
+        - text: /
+        - link "Automation Testing Quiz" [ref=e23] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/786b345d-7d09-409b-ac93-c3d248a14993?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=automation_quiz&utm_content=launch_button
+      - listitem [ref=e24]:
+        - text: /
+        - link "Schedule Meeting with Naveen" [ref=e25] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/schedule-meeting-with-naveen/
+      - listitem [ref=e26]:
+        - text: /
+        - link "Automation For Manual Testers" [ref=e27] [cursor=pointer]:
+          - /url: https://hubs.la/Q01f0LvK0
+      - listitem [ref=e28]:
+        - text: /
+        - link "AI Testing Tools" [ref=e29] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/code-converter.html
+      - listitem [ref=e30]:
+        - text: /
+        - link "Contact Us" [ref=e31] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/contact-us/
+    - main [ref=e32]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - figure [ref=e37]:
+            - link "Naveen AutomationLabs" [ref=e38] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/
+              - img "Naveen AutomationLabs" [ref=e39]
+            - generic [ref=e41]: Naveen AutomationLabs
+          - heading "Welcome to Naveen AutomationLabs" [level=1] [ref=e42]
+        - generic [ref=e46]:
+          - figure "life motto" [ref=e56]:
+            - generic [ref=e57]: life motto
+          - generic [ref=e60]:
+            - figure "Do Good - Get Best" [ref=e67]:
+              - generic [ref=e68]: Do Good - Get Best
+            - paragraph [ref=e75]:
+              - generic [ref=e77]: H
+              - text: ey Guys, I am Naveen – Automation Architect. I love automating everything
+              - img "🙂" [ref=e78]
+              - text: If I see anyone doing repeated tasks for hours, then I can not sleep peacefully on that day unless I automate that!! I am passionate about creating custom tools for team’s productivity/process improvement, building test automation frameworks from scratch / setting up the test infrastructure & CI/CD pipelines. Huge fan of JVM technologies, JMeter, Selenium-WebDriver & QTP/UFT.
+          - generic [ref=e87]:
+            - link "Facebook " [ref=e89] [cursor=pointer]:
+              - /url: https://www.facebook.com/groups/naveenqtpexpert
+              - generic [ref=e90]: Facebook
+              - generic [ref=e91]: 
+            - link "Youtube " [ref=e93] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/Naveen%20AutomationLabs?sub_confirmation=1
+              - generic [ref=e94]: Youtube
+              - generic [ref=e95]: 
+          - heading "Testimonials" [level=2] [ref=e113]
+          - generic [ref=e122]:
+            - generic [ref=e123]: Excellent session. But whenever you tell that they ask in interview, I am like Yes have to keep this in mind. Then you tell how you asked the same thing while taking an interview, And trust me the first thought that comes to my mind is "God! If I go for an interview and I get to know that Naveen Khunteta is taking the interview, I'll excuse myself telling, 'I need to use the Washroom' and then i'll run off from there. I don't know why but I am sure, interview with you would be very scary, How much ever prepared I am for it. Hahaha...
+            - generic [ref=e127]:
+              - generic [ref=e128]: Mithalee Pardeshi
+              - generic [ref=e129]: YouTube Follower
+          - generic [ref=e138]:
+            - generic [ref=e139]: Hello Naveen, you’re indeed a great guy, I came across your videos and shared it with colleagues and everyone that watched it always appreciate your concept of making it public for free. Thank you for making out time to create this video and all your wonderful support, hope to hear from you soon.
+            - generic [ref=e143]:
+              - generic [ref=e144]: Augustine Nliam
+              - generic [ref=e145]: YoutTube Follower
+      - complementary [ref=e152]:
+        - generic [ref=e154]:
+          - heading "NEW Playwright+Typescript+End To End Framework BATCH ANNOUNCEMENT – Regular Batch (28th Jan 2026 – 8 PM IST/ 9:30 AM EST (Registration open now)" [level=3] [ref=e155]
+          - paragraph [ref=e157]:
+            - generic [ref=e158]:
+              - link "New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open" [ref=e160] [cursor=pointer]:
+                - /url: https://naveenautomationlabs.com/playwright-training/
+                - paragraph [ref=e161]: New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open
+              - paragraph:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+              - paragraph [ref=e162]:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+        - generic [ref=e164]:
+          - 'heading "New Course Launched: GIT Tutorials (End to End) – Basics To Advanced" [level=3] [ref=e165]'
+          - link "Git paid course" [ref=e166] [cursor=pointer]:
+            - /url: https://naveenautomationlabs.com/gitcourse/
+            - img "Git paid course" [ref=e167]
+        - generic:
+          - generic:
+            - paragraph
+    - generic [ref=e171]:
+      - generic [ref=e173]:
+        - heading "Pages" [level=3] [ref=e174]
+        - list [ref=e175]:
+          - listitem [ref=e176]:
+            - link "Contact Us" [ref=e177] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/contact-us/
+          - listitem [ref=e178]:
+            - link "Live Training" [ref=e179] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/live-training/
+          - listitem [ref=e180]:
+            - link "Manual & Automation Testing of WebServices/API" [ref=e181] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/manual-automation-testing-of-webservices-api/
+          - listitem [ref=e182]:
+            - link "Paid Videos/Courses" [ref=e183] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/paid-videos-courses/
+          - listitem [ref=e184]:
+            - link "Privacy Policy" [ref=e185] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/privacy-policy/
+          - listitem [ref=e186]:
+            - link "Recorded Paid Courses" [ref=e187] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/recorded-paid-courses/
+          - listitem [ref=e188]:
+            - link "Refund and Cancellation Policy" [ref=e189] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/refund-and-cancellation-policy/
+          - listitem [ref=e190]:
+            - link "Selenium & Java Full Paid Course Recorded Videos" [ref=e191] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/selenium-java-full-paid-course-recorded-videos/
+          - listitem [ref=e192]:
+            - link "Terms & Conditions" [ref=e193] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/terms-conditions/
+          - listitem [ref=e194]:
+            - link "Welcome to Naveen AutomationLabs" [ref=e195] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/
+      - generic:
+        - generic:
+          - paragraph
+    - generic [ref=e197]:
+      - paragraph [ref=e198]:
+        - text: © 2026
+        - link:
+          - /url: https://naveenautomationlabs.com
+      - paragraph [ref=e199]:
+        - generic [ref=e200]:
+          - text: Theme by
+          - link "Anders Norén" [ref=e201] [cursor=pointer]:
+            - /url: https://andersnoren.se
+        - text: — Up ↑
+  - insertion [ref=e202]
+  - generic [ref=e204]: widescreen
+```

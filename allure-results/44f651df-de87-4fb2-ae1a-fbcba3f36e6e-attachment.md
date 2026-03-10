@@ -1,0 +1,183 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - insertion [ref=e2]:
+    - iframe [ref=e4]:
+      - generic [active] [ref=f2e1]:
+        - generic [ref=f2e6]:
+          - generic [ref=f2e7]:
+            - generic "JustAnswer" [ref=f2e9]:
+              - link "Chat with an expert Online Now" [ref=f2e10] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=Cp6GY4qqvaeTnCK2ModAPzo3B2AvvnIXFgwGk8-KHsxLHzZ71wh8QASD3ga05YOXq5oO8DqAB_ZKK_QPIAQGoAwHIA8sEqgT4AU_QS7xZKtLHE2_M7VVSjxuHAs596E01TsZCmJngEK5qUpDDL78WXI4ZXaE9LreO2l6jyShwoQ_32GIDIYyqPtigCKwcR4n1yCRX4SDwXWT9grg8IBxYCziHgmx2PszDrW927CVMmr32eeA--_oJFpHiHFtwvi8AKeXzc1GPW-dEJpt-3dsXpZS2L_DGMQDa1hLNIOn91R7pc_o1S-eWJRZvxcGey-Irf2WfKrIvAdy12QXujJo0LfATCIkWYu0GT2CDBdOTzO3jkAm4nYh_dlVdaUOTWEhMrPeeXvzuj7W0KfZ-4eQ6rRVMlTlUMSYcIq9AZCaMqu9ywATA9ML69ASIBdXLlMNPgAemtpwyqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYwpXfycuUkwOxCTu1xfRYbsudgAoBmAsByAsBogwIKgYKBNbasQKqDQJJTsgNAeoNEwiU5uTJy5STAxUtRggEHc5GELuIDgnYEwvQFQHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAYJ6SbUESCjczMTg1MTUxMDUYAbIYCRIC8U4YASIBANAYAegYAbIZATfCGQIIAQ&gclid=EAIaIQobChMI5ODkycuUkwMVLUYIBB3ORhC7EAEYASAAEgIzpfD_BwE&num=1&cid=CAQS4wEA56J1eYXyXz4RR6WlManZctQsHuCYYVSoyuE6zfWIBHfAuf9piVSqvZLgql9wjczdgQb9WrlwZc6oGffJ0iAHgfWQJ7WXK0LB-8jeONHz7eFrDII75zP24mVJl7FsQziqQsbT0eqgaJJgD0Sg9OPY57xGUliXrcBroEN89lEFvPOb0EZOtdNNbj5caWwOFjLsPF5qP-FCrdgxkGR372wI1Wt5KBa01Qo1wyGkfOdQ6fwQRo9ma8q33weO4bfExzjlL97-Q981U9J2ensXZrWZ7U0QnQ9CNqmxQupZbqztiS87thgB&sig=AOD64_3wAWQUnzaRNnWPMF93XA-ZyvCkRA&client=ca-pub-1372512343078234&rf=1&nb=0&adurl=https://www.justanswer.com/sip/justanswer-1%3Fr%3Dppc%7Cga%7C13%7CUS-Tech-Micro-Support-CI-Content-All-Devices%7C%7C%26JPKW%3D%26JPDC%3DC%26JPST%3Dnaveenautomationlabs.com%26JPAD%3D701359962415%26JPMT%3D%26JPNW%3Dd%26JPAF%3Dimg%26JPRC%3D1%26JPCD%3D%26JPOP%3D%26cmpid%3D21347247573%26agid%3D168834415168%26fiid%3D%26tgtid%3D%26ntw%3Dd%26dvc%3Dc%26gad_source%3D5%26gad_campaignid%3D21347247573
+            - generic [ref=f2e11]:
+              - link "A Technician Will Answer Your Questions in Minutes. Chat Now." [ref=f2e13] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=Cp6GY4qqvaeTnCK2ModAPzo3B2AvvnIXFgwGk8-KHsxLHzZ71wh8QASD3ga05YOXq5oO8DqAB_ZKK_QPIAQGoAwHIA8sEqgT4AU_QS7xZKtLHE2_M7VVSjxuHAs596E01TsZCmJngEK5qUpDDL78WXI4ZXaE9LreO2l6jyShwoQ_32GIDIYyqPtigCKwcR4n1yCRX4SDwXWT9grg8IBxYCziHgmx2PszDrW927CVMmr32eeA--_oJFpHiHFtwvi8AKeXzc1GPW-dEJpt-3dsXpZS2L_DGMQDa1hLNIOn91R7pc_o1S-eWJRZvxcGey-Irf2WfKrIvAdy12QXujJo0LfATCIkWYu0GT2CDBdOTzO3jkAm4nYh_dlVdaUOTWEhMrPeeXvzuj7W0KfZ-4eQ6rRVMlTlUMSYcIq9AZCaMqu9ywATA9ML69ASIBdXLlMNPgAemtpwyqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYwpXfycuUkwOxCTu1xfRYbsudgAoBmAsByAsBogwIKgYKBNbasQKqDQJJTsgNAeoNEwiU5uTJy5STAxUtRggEHc5GELuIDgnYEwvQFQHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAYJ6SbUESCjczMTg1MTUxMDUYAbIYCRIC8U4YASIBANAYAegYAbIZATfCGQIIAQ&gclid=EAIaIQobChMI5ODkycuUkwMVLUYIBB3ORhC7EAEYASAAEgIzpfD_BwE&num=1&cid=CAQS4wEA56J1eYXyXz4RR6WlManZctQsHuCYYVSoyuE6zfWIBHfAuf9piVSqvZLgql9wjczdgQb9WrlwZc6oGffJ0iAHgfWQJ7WXK0LB-8jeONHz7eFrDII75zP24mVJl7FsQziqQsbT0eqgaJJgD0Sg9OPY57xGUliXrcBroEN89lEFvPOb0EZOtdNNbj5caWwOFjLsPF5qP-FCrdgxkGR372wI1Wt5KBa01Qo1wyGkfOdQ6fwQRo9ma8q33weO4bfExzjlL97-Q981U9J2ensXZrWZ7U0QnQ9CNqmxQupZbqztiS87thgB&sig=AOD64_3wAWQUnzaRNnWPMF93XA-ZyvCkRA&client=ca-pub-1372512343078234&rf=1&nb=7&adurl=https://www.justanswer.com/sip/justanswer-1%3Fr%3Dppc%7Cga%7C13%7CUS-Tech-Micro-Support-CI-Content-All-Devices%7C%7C%26JPKW%3D%26JPDC%3DC%26JPST%3Dnaveenautomationlabs.com%26JPAD%3D701359962415%26JPMT%3D%26JPNW%3Dd%26JPAF%3Dimg%26JPRC%3D1%26JPCD%3D%26JPOP%3D%26cmpid%3D21347247573%26agid%3D168834415168%26fiid%3D%26tgtid%3D%26ntw%3Dd%26dvc%3Dc%26gad_source%3D5%26gad_campaignid%3D21347247573
+              - link [ref=f2e14] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=Cp6GY4qqvaeTnCK2ModAPzo3B2AvvnIXFgwGk8-KHsxLHzZ71wh8QASD3ga05YOXq5oO8DqAB_ZKK_QPIAQGoAwHIA8sEqgT4AU_QS7xZKtLHE2_M7VVSjxuHAs596E01TsZCmJngEK5qUpDDL78WXI4ZXaE9LreO2l6jyShwoQ_32GIDIYyqPtigCKwcR4n1yCRX4SDwXWT9grg8IBxYCziHgmx2PszDrW927CVMmr32eeA--_oJFpHiHFtwvi8AKeXzc1GPW-dEJpt-3dsXpZS2L_DGMQDa1hLNIOn91R7pc_o1S-eWJRZvxcGey-Irf2WfKrIvAdy12QXujJo0LfATCIkWYu0GT2CDBdOTzO3jkAm4nYh_dlVdaUOTWEhMrPeeXvzuj7W0KfZ-4eQ6rRVMlTlUMSYcIq9AZCaMqu9ywATA9ML69ASIBdXLlMNPgAemtpwyqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYwpXfycuUkwOxCTu1xfRYbsudgAoBmAsByAsBogwIKgYKBNbasQKqDQJJTsgNAeoNEwiU5uTJy5STAxUtRggEHc5GELuIDgnYEwvQFQHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAYJ6SbUESCjczMTg1MTUxMDUYAbIYCRIC8U4YASIBANAYAegYAbIZATfCGQIIAQ&gclid=EAIaIQobChMI5ODkycuUkwMVLUYIBB3ORhC7EAEYASAAEgIzpfD_BwE&num=1&cid=CAQS4wEA56J1eYXyXz4RR6WlManZctQsHuCYYVSoyuE6zfWIBHfAuf9piVSqvZLgql9wjczdgQb9WrlwZc6oGffJ0iAHgfWQJ7WXK0LB-8jeONHz7eFrDII75zP24mVJl7FsQziqQsbT0eqgaJJgD0Sg9OPY57xGUliXrcBroEN89lEFvPOb0EZOtdNNbj5caWwOFjLsPF5qP-FCrdgxkGR372wI1Wt5KBa01Qo1wyGkfOdQ6fwQRo9ma8q33weO4bfExzjlL97-Q981U9J2ensXZrWZ7U0QnQ9CNqmxQupZbqztiS87thgB&sig=AOD64_3wAWQUnzaRNnWPMF93XA-ZyvCkRA&client=ca-pub-1372512343078234&rf=1&nb=8&adurl=https://www.justanswer.com/sip/justanswer-1%3Fr%3Dppc%7Cga%7C13%7CUS-Tech-Micro-Support-CI-Content-All-Devices%7C%7C%26JPKW%3D%26JPDC%3DC%26JPST%3Dnaveenautomationlabs.com%26JPAD%3D701359962415%26JPMT%3D%26JPNW%3Dd%26JPAF%3Dimg%26JPRC%3D1%26JPCD%3D%26JPOP%3D%26cmpid%3D21347247573%26agid%3D168834415168%26fiid%3D%26tgtid%3D%26ntw%3Dd%26dvc%3Dc%26gad_source%3D5%26gad_campaignid%3D21347247573
+                - img [ref=f2e15]
+          - generic "JustAnswer" [ref=f2e17]:
+            - link "JustAnswer" [ref=f2e18] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=Cp6GY4qqvaeTnCK2ModAPzo3B2AvvnIXFgwGk8-KHsxLHzZ71wh8QASD3ga05YOXq5oO8DqAB_ZKK_QPIAQGoAwHIA8sEqgT4AU_QS7xZKtLHE2_M7VVSjxuHAs596E01TsZCmJngEK5qUpDDL78WXI4ZXaE9LreO2l6jyShwoQ_32GIDIYyqPtigCKwcR4n1yCRX4SDwXWT9grg8IBxYCziHgmx2PszDrW927CVMmr32eeA--_oJFpHiHFtwvi8AKeXzc1GPW-dEJpt-3dsXpZS2L_DGMQDa1hLNIOn91R7pc_o1S-eWJRZvxcGey-Irf2WfKrIvAdy12QXujJo0LfATCIkWYu0GT2CDBdOTzO3jkAm4nYh_dlVdaUOTWEhMrPeeXvzuj7W0KfZ-4eQ6rRVMlTlUMSYcIq9AZCaMqu9ywATA9ML69ASIBdXLlMNPgAemtpwyqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYwpXfycuUkwOxCTu1xfRYbsudgAoBmAsByAsBogwIKgYKBNbasQKqDQJJTsgNAeoNEwiU5uTJy5STAxUtRggEHc5GELuIDgnYEwvQFQHKFgIKAPgWAYAXAbIXDhgBKgo3MzE4NTE1MTA1uhcCOAGqGBcJAAAAYJ6SbUESCjczMTg1MTUxMDUYAbIYCRIC8U4YASIBANAYAegYAbIZATfCGQIIAQ&gclid=EAIaIQobChMI5ODkycuUkwMVLUYIBB3ORhC7EAEYASAAEgIzpfD_BwE&num=1&cid=CAQS4wEA56J1eYXyXz4RR6WlManZctQsHuCYYVSoyuE6zfWIBHfAuf9piVSqvZLgql9wjczdgQb9WrlwZc6oGffJ0iAHgfWQJ7WXK0LB-8jeONHz7eFrDII75zP24mVJl7FsQziqQsbT0eqgaJJgD0Sg9OPY57xGUliXrcBroEN89lEFvPOb0EZOtdNNbj5caWwOFjLsPF5qP-FCrdgxkGR372wI1Wt5KBa01Qo1wyGkfOdQ6fwQRo9ma8q33weO4bfExzjlL97-Q981U9J2ensXZrWZ7U0QnQ9CNqmxQupZbqztiS87thgB&sig=AOD64_3wAWQUnzaRNnWPMF93XA-ZyvCkRA&client=ca-pub-1372512343078234&rf=1&nb=1&adurl=https://www.justanswer.com/sip/justanswer-1%3Fr%3Dppc%7Cga%7C13%7CUS-Tech-Micro-Support-CI-Content-All-Devices%7C%7C%26JPKW%3D%26JPDC%3DC%26JPST%3Dnaveenautomationlabs.com%26JPAD%3D701359962415%26JPMT%3D%26JPNW%3Dd%26JPAF%3Dimg%26JPRC%3D1%26JPCD%3D%26JPOP%3D%26cmpid%3D21347247573%26agid%3D168834415168%26fiid%3D%26tgtid%3D%26ntw%3Dd%26dvc%3Dc%26gad_source%3D5%26gad_campaignid%3D21347247573
+        - img [ref=f2e22] [cursor=pointer]
+        - button [ref=f2e24] [cursor=pointer]:
+          - img [ref=f2e25]
+        - iframe
+  - link "Skip to the content" [ref=e5] [cursor=pointer]:
+    - /url: "#site-content"
+  - generic [ref=e6]:
+    - list [ref=e11]:
+      - listitem [ref=e12]:
+        - link "Live Training" [ref=e13]:
+          - /url: https://naveenautomationlabs.com/live-training/
+      - listitem [ref=e14]:
+        - text: /
+        - link "Paid Videos/Courses" [ref=e15]:
+          - /url: https://naveenautomationlabs.com/paid-videos-courses/
+      - listitem [ref=e16]:
+        - text: /
+        - link "Generate Page Objects Using AI" [ref=e17]:
+          - /url: https://claude.ai/public/artifacts/03b506e0-cea0-43ee-94e9-bb10dd9106b2?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=page_object_generator&utm_content=launch_button
+      - listitem [ref=e18]:
+        - text: /
+        - link "Test Automation Code Translator" [ref=e19]:
+          - /url: https://claude.ai/public/artifacts/a5a94f5d-df6a-46b8-bf3d-55606cefb8d7?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=code_converter&utm_content=launch_button
+      - listitem [ref=e20]:
+        - text: /
+        - link "cURL to REST Assured Converter" [ref=e21]:
+          - /url: https://claude.ai/public/artifacts/6b0a20b6-ef02-4e63-a0cd-064c01e3a716?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=curl_converter&utm_content=launch_button
+      - listitem [ref=e22]:
+        - text: /
+        - link "Automation Testing Quiz" [ref=e23]:
+          - /url: https://claude.ai/public/artifacts/786b345d-7d09-409b-ac93-c3d248a14993?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=automation_quiz&utm_content=launch_button
+      - listitem [ref=e24]:
+        - text: /
+        - link "Schedule Meeting with Naveen" [ref=e25]:
+          - /url: https://naveenautomationlabs.com/schedule-meeting-with-naveen/
+      - listitem [ref=e26]:
+        - text: /
+        - link "Automation For Manual Testers" [ref=e27]:
+          - /url: https://hubs.la/Q01f0LvK0
+      - listitem [ref=e28]:
+        - text: /
+        - link "AI Testing Tools" [ref=e29]:
+          - /url: https://naveenautomationlabs.com/code-converter.html
+      - listitem [ref=e30]:
+        - text: /
+        - link "Contact Us" [ref=e31]:
+          - /url: https://naveenautomationlabs.com/contact-us/
+    - main [ref=e32]:
+      - article [ref=e35]:
+        - generic [ref=e36]:
+          - figure [ref=e37]:
+            - link "Naveen AutomationLabs" [ref=e38]:
+              - /url: https://naveenautomationlabs.com/
+              - img "Naveen AutomationLabs" [ref=e39]
+            - generic [ref=e41]: Naveen AutomationLabs
+          - heading "Welcome to Naveen AutomationLabs" [level=1] [ref=e42]
+        - generic [ref=e46]:
+          - figure "life motto" [ref=e56]:
+            - generic [ref=e57]: life motto
+          - generic [ref=e60]:
+            - figure "Do Good - Get Best" [ref=e67]:
+              - generic [ref=e68]: Do Good - Get Best
+            - paragraph [ref=e75]:
+              - generic [ref=e77]: H
+              - text: ey Guys, I am Naveen – Automation Architect. I love automating everything
+              - img "🙂" [ref=e78]
+              - text: If I see anyone doing repeated tasks for hours, then I can not sleep peacefully on that day unless I automate that!! I am passionate about creating custom tools for team’s productivity/process improvement, building test automation frameworks from scratch / setting up the test infrastructure & CI/CD pipelines. Huge fan of JVM technologies, JMeter, Selenium-WebDriver & QTP/UFT.
+          - generic [ref=e87]:
+            - link "Facebook " [ref=e89] [cursor=pointer]:
+              - /url: https://www.facebook.com/groups/naveenqtpexpert
+              - generic [ref=e90]: Facebook
+              - generic [ref=e91]: 
+            - link "Youtube " [ref=e93] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/Naveen%20AutomationLabs?sub_confirmation=1
+              - generic [ref=e94]: Youtube
+              - generic [ref=e95]: 
+          - heading "Testimonials" [level=2] [ref=e113]
+          - generic [ref=e122]:
+            - generic [ref=e123]: Excellent session. But whenever you tell that they ask in interview, I am like Yes have to keep this in mind. Then you tell how you asked the same thing while taking an interview, And trust me the first thought that comes to my mind is "God! If I go for an interview and I get to know that Naveen Khunteta is taking the interview, I'll excuse myself telling, 'I need to use the Washroom' and then i'll run off from there. I don't know why but I am sure, interview with you would be very scary, How much ever prepared I am for it. Hahaha...
+            - generic [ref=e127]:
+              - generic [ref=e128]: Mithalee Pardeshi
+              - generic [ref=e129]: YouTube Follower
+          - generic [ref=e138]:
+            - generic [ref=e139]: Hello Naveen, you’re indeed a great guy, I came across your videos and shared it with colleagues and everyone that watched it always appreciate your concept of making it public for free. Thank you for making out time to create this video and all your wonderful support, hope to hear from you soon.
+            - generic [ref=e143]:
+              - generic [ref=e144]: Augustine Nliam
+              - generic [ref=e145]: YoutTube Follower
+      - complementary [ref=e152]:
+        - generic [ref=e154]:
+          - heading "NEW Playwright+Typescript+End To End Framework BATCH ANNOUNCEMENT – Regular Batch (28th Jan 2026 – 8 PM IST/ 9:30 AM EST (Registration open now)" [level=3] [ref=e155]
+          - paragraph [ref=e157]:
+            - generic [ref=e158]:
+              - link "New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open" [ref=e160]:
+                - /url: https://naveenautomationlabs.com/playwright-training/
+                - paragraph [ref=e161]: New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open
+              - paragraph:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+              - paragraph:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+        - generic [ref=e163]:
+          - 'heading "New Course Launched: GIT Tutorials (End to End) – Basics To Advanced" [level=3] [ref=e164]'
+          - link "Git paid course" [ref=e165]:
+            - /url: https://naveenautomationlabs.com/gitcourse/
+            - img "Git paid course" [ref=e166]
+        - generic:
+          - generic:
+            - paragraph
+    - generic [ref=e170]:
+      - generic [ref=e172]:
+        - heading "Pages" [level=3] [ref=e173]
+        - list [ref=e174]:
+          - listitem [ref=e175]:
+            - link "Contact Us" [ref=e176]:
+              - /url: https://naveenautomationlabs.com/contact-us/
+          - listitem [ref=e177]:
+            - link "Live Training" [ref=e178]:
+              - /url: https://naveenautomationlabs.com/live-training/
+          - listitem [ref=e179]:
+            - link "Manual & Automation Testing of WebServices/API" [ref=e180]:
+              - /url: https://naveenautomationlabs.com/manual-automation-testing-of-webservices-api/
+          - listitem [ref=e181]:
+            - link "Paid Videos/Courses" [ref=e182]:
+              - /url: https://naveenautomationlabs.com/paid-videos-courses/
+          - listitem [ref=e183]:
+            - link "Privacy Policy" [ref=e184]:
+              - /url: https://naveenautomationlabs.com/privacy-policy/
+          - listitem [ref=e185]:
+            - link "Recorded Paid Courses" [ref=e186]:
+              - /url: https://naveenautomationlabs.com/recorded-paid-courses/
+          - listitem [ref=e187]:
+            - link "Refund and Cancellation Policy" [ref=e188]:
+              - /url: https://naveenautomationlabs.com/refund-and-cancellation-policy/
+          - listitem [ref=e189]:
+            - link "Selenium & Java Full Paid Course Recorded Videos" [ref=e190]:
+              - /url: https://naveenautomationlabs.com/selenium-java-full-paid-course-recorded-videos/
+          - listitem [ref=e191]:
+            - link "Terms & Conditions" [ref=e192]:
+              - /url: https://naveenautomationlabs.com/terms-conditions/
+          - listitem [ref=e193]:
+            - link "Welcome to Naveen AutomationLabs" [ref=e194]:
+              - /url: https://naveenautomationlabs.com/
+      - generic:
+        - generic:
+          - paragraph
+    - generic [ref=e196]:
+      - paragraph [ref=e197]:
+        - text: © 2026
+        - link:
+          - /url: https://naveenautomationlabs.com
+      - paragraph [ref=e198]:
+        - generic [ref=e199]:
+          - text: Theme by
+          - link "Anders Norén" [ref=e200]:
+            - /url: https://andersnoren.se
+        - text: — Up ↑
+  - insertion [ref=e201]
+  - generic [ref=e203]: widescreen
+```
