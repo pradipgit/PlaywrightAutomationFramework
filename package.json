@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:qa": "cross-env TEST_ENV=qa playwright test tests/smoke/google.spec.ts --project=chromium",
-    "test:staging": "cross-env TEST_ENV=staging playwright test tests/smoke/naveen.spec.ts --project=chromium",
+    "test:staging": "cross-env TEST_ENV=staging playwright test tests/smoke/naveen.spec.ts --project=chromium --grep \"@smoke|@regression\"",
     "test:prod": "cross-env TEST_ENV=prod playwright test",
     "test:headed": "cross-env HEADED=true playwright test",
     "generate:test": "tsc -p tsconfig.mcp.json && node dist/mcp/server.js"
